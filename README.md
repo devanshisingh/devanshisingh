@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a third year MBA Tech student in Computer Science also pursuing B.Tech (Hons.) in Machine Learning and Data Analytics.
+I am a fourth year MBA Tech student in Computer Science also pursuing B.Tech (Hons.) in Machine Learning and Data Analytics.
 
 - 🔭 I’m currently working on a Data Science Project
 - 🌱 I’m currently learning Web Scraping
